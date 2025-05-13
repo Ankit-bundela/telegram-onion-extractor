@@ -50,9 +50,11 @@ telegram-onion-extractor/
 	Fetching messages from channel: toronionlinks ...
 	----------------------------------------------------------------------
 	http://example1.onion/
+
 	http://example2.onion/
 	...
    
+##
 Screenshot
 
 	#A sample terminal output screenshot is available in the images/ folder.
