@@ -10,6 +10,9 @@ This project is a Python-based tool that extracts `.onion` links from a public T
 
 ## Project Structure
 telegram-onion-extractor/
+
+
+
 	├──extractor.py # Main script
 	├──requirements.txt # Python dependencies
 	├──README.md # Project info and usage
