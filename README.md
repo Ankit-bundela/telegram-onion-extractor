@@ -21,7 +21,7 @@ telegram-onion-extractor/
 
 -----
 
-#Setup Instructions
+## Setup Instructions
 
 
 	1. **Install dependencies**
@@ -32,16 +32,19 @@ telegram-onion-extractor/
   
 		   pip install -r requirements.txt
 
-2. Configure API credentials
+
+# Configure API Credentials
 #Open extractor.py and update these lines with your own Telegram API details:
 	api_id = YOUR_API_ID
 	api_hash = 'YOUR_API_HASH'
 
 
+
 3. Run This Script
 	#python extractor.py
 
-4. Sample Output
+
+5. Sample Output
 	Fetching messages from channel: toronionlinks ...
 	----------------------------------------------------------------------
 	http://example1.onion/
