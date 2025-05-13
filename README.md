@@ -22,9 +22,14 @@ telegram-onion-extractor/
 -----
 
 #Setup Instructions
+
+
 	1. **Install dependencies**
+ 
 	2. Make sure you're in your virtual environment, then run:
+ 
 		```bash
+  
 		   pip install -r requirements.txt
 
 2. Configure API credentials
