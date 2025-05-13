@@ -35,7 +35,9 @@ telegram-onion-extractor/
 
 # Configure API Credentials
 #Open extractor.py and update these lines with your own Telegram API details:
+
 	api_id = YOUR_API_ID
+ 
 	api_hash = 'YOUR_API_HASH'
 
 
@@ -50,5 +52,7 @@ telegram-onion-extractor/
 	http://example1.onion/
 	http://example2.onion/
 	...
-5.Screenshot
+   
+Screenshot
+
 	#A sample terminal output screenshot is available in the images/ folder.
